@@ -1,4 +1,9 @@
 README.txt
+Curso de segurança cibernética
+ALUNOS:
+Gustavo Chieza Alves
+Lucas Rafael de Azevedo
+Eduardo Valente Alves Martins
 
 O objetivo deste trabalho foi criar um cardápio virtual, com funções para adicionar, remover e somar o total no mesmo programa, baseado em uma biblioteca de produtos e preços pré-determinados pelo programador. Por motivos de facilitar a explicação, o código foi dividido em blocos.
 
